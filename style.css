@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: Roboto;
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+
+.leftlogo {
+    color:aliceblue;
+    font-size: 24px;
+    font-weight: 900;
+    display: flex;
+    margin: 8px;
+}
+
+
+
+.rightlinks {
+    display: flex;
+    gap: 13px;
+    margin: 8px;
+    align-items: center;
+    list-style: none;
+}
+
+a {
+    text-decoration-line: none;
+    color:#e5e7eb;
+}
+
+
+.subheader {
+    background-color: #1F2937;
+    display: flex;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
