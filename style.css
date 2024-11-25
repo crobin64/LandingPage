@@ -115,6 +115,9 @@ img {
 }
 
 .s2header {
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
     color: #1F2937;
     font-size: 36px;
     display: flex;
@@ -125,7 +128,6 @@ img {
 .s2images {
     display: flex;
     flex-direction: row;
-    flex: 1;
     justify-content: center;
     align-content: center;
 }
@@ -197,9 +199,10 @@ img {
     background-color:#3882F6;
     display: flex;
     color:#F9FAF8;
-    padding: 55px;
+    padding: 30px;
     margin-top: 95px;
-    margin-bottom: 95px;    
+    margin-bottom: 95px;  
+    box-shadow: 6px 7px 10px #131820;  
 }
 
 .CTA {
@@ -224,6 +227,11 @@ img {
     margin-left: 75px;
     color:#e5e7eb;
     font-weight: 700;
+}
+
+.buttonbox {
+    display: flex;
+    align-items: center;
 }
 
 .footerbutton {
