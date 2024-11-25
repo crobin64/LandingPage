@@ -95,5 +95,82 @@ button {
 .headphoto {
     width: 400px;
     height: 250px;
+}
 
+.s2container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.s2header {
+    font-size: 36px;
+    color: #1F2937;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+.s2images {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: center;
+    align-content: center;
+}
+
+.pic {
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    margin-bottom: 0px;
+    border-radius: 15%;
+}
+
+.s2subtext {
+    color: #1F2937;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: center;
+    align-content: center;
+}
+
+.stext {
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.graycontainer {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    width: 
+}
+.s3container {
+    display: flex;
+    flex-direction: column;
+    font-family: "light italic";
+    color:#1F2937;
+    width: 925px;
+    margin: 0 auto;
+
+}
+
+.quote {
+    font-size: 32px;
+    margin-bottom: 0;
+    text-align: left;
+    margin-top:100px;
+    
+}
+.signed {
+    weight: 700;
+    font-size: 42px;
+    margin-top:0;
+    text-align: right;
+    margin-bottom: 100px;
 }
