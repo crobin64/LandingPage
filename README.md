@@ -17,3 +17,9 @@ Nearly two hours in and all I've managed to do is get the 1st section of HTML do
 21:18
 
 Good lord. I gpt the entire first section complete and inline. The hardest part was figuring out how to get the image to go to the right of the text rather than under it. Changing the subheader flex-direction from column to row solved the issue.
+
+01:24 25-Nov-2024
+
+Well hell. I did it. I'm actually stoked. I definitely was pulling resources from the web but with nothing to fall back on as an absolute answer, I certainly feel proud of myself for completing the challenge! And it WAS a challenge! 
+
+Done!
