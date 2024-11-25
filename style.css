@@ -82,6 +82,8 @@ button {
     border-radius: 8px;
     align-self:flex-start;
     margin-left: 75px;
+    color:#e5e7eb;
+    font-weight: 700;
 }
 
 .image {
@@ -104,9 +106,9 @@ button {
 }
 
 .s2header {
-    font-size: 36px;
     color: #1F2937;
-    display:flex;
+    font-size: 36px;
+    display: flex;
     flex-direction: row;
     justify-content: center;
     align-content: center;
